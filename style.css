@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho {
+    background-color: green;
+    color: white;
+    position: sticky;
+    width: 100%;
+    top: 0;
+} 
+
+#titulo {
+    text-align: center;
+}
+
+#navegacao ul {
+    list-style: none;
+}
+
+#minha_foto img {
+    margin-top: 10px;
+    width: 200px;
+}
+
+#minha_foto p {
+    height: 50px;
+    font-size: smaller;
+}
+
+#minha_foto h3 {
+    height: 50px;
+}
+
+.listas {
+    display: flex;
+}
+
+.artigo {
+    display: flex;
+    position: relative;
+    top: 50px;
+    height: auto;
+    border-width: 1px;
+}
+
+#rodape {
+    position: absolute;
+    bottom: 0%;
+}
+
+
+
+
