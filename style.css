@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho {
+    background-color: #999;
+    position: sticky;
+    width: 100%;
+    top: 0;
+} 
+
+#titulo {
+    text-align: center;
+}
+
+#navegacao ul {
+    list-style: none;
+}
+
+#minha_foto img {
+    margin-top: 10px;
+    width: 200px;
+}
+
+.listas {
+    display: flex;
+}
+
+.artigo {
+    display: flex;
+}
+
+
+
+
